@@ -4,10 +4,14 @@
 
 ---
 
+## Requirements
+
+> Have node.js installed. View installation steps [here](https://nodejs.org/en/)
+
 ## Installation
 
 > Clone
-- Clone this repo to your local machine using `https://url do repositorio`
+- Clone this repo to your local machine using `https://github.com/Eloyvj/PrjCypressExample.git`
 
 - Install all dependencies (package.json)
 `npm install`
